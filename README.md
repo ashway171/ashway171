@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashway171
-- 👀 I’m interested in Java, Mobile Development, C++
+- 👀 I’m interested in Java, Kotlin or Mobile Development in general
 - 🌱 I’m currently learning Android, Java
-- 💞️ I’m looking to collaborate on Android and Java Projects
+- 💞️ I’m looking to collaborate on Android and Java and Kotlin Projects
 - 📫 Reach me @ ateebashway171@gmail.com and Twitter @ateebash171 
 
 <!---
