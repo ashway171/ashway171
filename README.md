@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashway171
 - 👀 I’m interested in Android, Kotlin or Mobile Development in general
-- 🌱 I’m currently learning Android Architecture Patterns
+- 🌱 I’m currently learning Dependency Injection in Android using Dagger-Hilt
 - 💞️ I’m looking to collaborate on Android & Kotlin Projects or fascinating projects in general
 - 📫 Reach me @ ateebashway171@gmail.com and Twitter @ateebash171 
 
